@@ -1,5 +1,6 @@
 {
     "name": "KeyesDRV8833_extension",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
